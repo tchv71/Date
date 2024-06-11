@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Debug/Date.log
+/DATE.COM
+/DATE.COM.NoiCtx
+/Date.NOI
+/DATE.PRN
+/Date.PRN.ASM
+/DATE.REL
+/Date.rkl
